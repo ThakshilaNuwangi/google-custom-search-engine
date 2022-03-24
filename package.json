@@ -1,0 +1,22 @@
+{
+  "name": "google-custom-search-engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThakshilaNuwangi/google-custom-search-engine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThakshilaNuwangi/google-custom-search-engine/issues"
+  },
+  "homepage": "https://github.com/ThakshilaNuwangi/google-custom-search-engine#readme",
+  "dependencies": {
+    "reset.css": "^2.0.2"
+  }
+}
