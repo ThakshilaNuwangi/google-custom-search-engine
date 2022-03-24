@@ -67,6 +67,35 @@ header #sign-in:hover{
     background: #2b7de9;
     box-shadow: 0 1px 2px 0 rgb(66 133 244 / 30%), 0 1px 3px 1px rgb(66 133 244 / 15%);
 }
+footer{
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    color: #70757a;
+    background: #f2f2f2
+}
+footer #country{
+    padding: 15px 30px;
+    font-size: 15px;
+    border-bottom: 1px solid #dadce0;
+}
+footer #links{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+footer #links > div{
+    display: flex;
+}
+footer #links > div a{
+    padding: 15px;
+    color: inherit;
+}
+footer #links > div:first-child{
+    flex-wrap: wrap;
+}
 
 /* == Keyframes */
 
