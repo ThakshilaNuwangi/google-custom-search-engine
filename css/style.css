@@ -71,3 +71,8 @@ header #sign-in:hover{
 /* == Keyframes */
 
 /* == Media Queries */
+@media all and (max-width:419px){
+    header{
+        justify-content: center;
+    }
+}
