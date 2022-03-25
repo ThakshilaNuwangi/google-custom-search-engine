@@ -77,15 +77,75 @@ main{
     align-items: center;
     gap: 45px;
     margin-top: 8px;
+    justify-content: center;
 }
 #logo-wrapper{
     display: flex;
     align-items: center;
-    
     height: 103px;
 }
-
-
+main form #search-wrapper{
+    display: flex;
+    max-width: 582px;
+    width: 100%;
+    height: 44px;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+    align-items: center;
+    margin: auto;
+}
+main form #search-wrapper svg{
+    width: 20px;
+    height: 20px;
+    fill: #9aa0a6;
+}
+main form #search-wrapper input{
+    width: 100%;
+    margin-right: 10px;
+    border: none;
+    outline: none;
+}
+main form #search-wrapper #icon-search{
+    padding: 0 14px;
+}
+main form #search-wrapper:hover{
+    box-shadow: 0 1px 6px rgb(32 33 36 / 28%);
+    border-color: rgba(223,225,229,0);
+}
+main form button{
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+main form #button-wrapper{
+    padding-top: 18px;
+    text-align: center;
+}
+main form button:hover{
+    box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
+    background-color: #f8f9fa;
+    border: 1px solid #dadce0;
+    color: #202124;
+}
+main #form-wrapper{
+    width: 100%;
+    padding: 0 20px;
+}
+main #offer-wrapper a{
+    padding: 0 5px;
+}
+main #offer-wrapper{
+    font-size: 13px;
+}
 
 
 
