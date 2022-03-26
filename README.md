@@ -1,6 +1,6 @@
 # Google Custom Search Engine - V 0.1.0
 
-### IMP - This project is designed for an experimental purpose. All the rights of trademarks and logos are owned by Google Inc.
+#### IMP - This project is designed for an experimental purpose. All the rights of trademarks and logos are owned by Google Inc.
 
 ## Introduction
 This repository represents the custom search engine that I have developed using the universal programming languages. This custom search engine is a software that allows users to browse the internet. 
